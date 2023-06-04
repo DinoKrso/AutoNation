@@ -1,0 +1,854 @@
+.our-review-details-child {
+  height: 92.58%;
+  background-color: var(--dark-secondary);
+  width: 1440px;
+  position: absolute;
+  top: 0;
+  bottom: 7.42%;
+  left: 0;
+}
+
+.frame-child233, .frame-child234 {
+  border-radius: var(--br-10xs);
+  width: 1200px;
+  height: 472px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-child234 {
+  object-fit: cover;
+}
+
+.frame-child235 {
+  width: 84px;
+  height: 84px;
+  position: absolute;
+  top: 194px;
+  left: 558px;
+}
+
+.the-car-has1 {
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.the-car-has-container, .the-tesla-model-container1 {
+  font-size: var(--font-inherit);
+  font-weight: 300;
+  font-family: var(--font-inherit);
+  width: 713px;
+  display: inline-block;
+  position: absolute;
+  top: 1617px;
+  left: 243px;
+}
+
+.the-tesla-model-container1 {
+  top: 934px;
+}
+
+.the-model-3 {
+  margin: 0;
+}
+
+.the-model-3-container, .why {
+  width: 713px;
+  display: inline-block;
+  position: absolute;
+  left: 243px;
+}
+
+.the-model-3-container {
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  top: 1862px;
+}
+
+.why {
+  font-weight: 500;
+  top: 1565px;
+}
+
+.strength {
+  font-weight: 500;
+  top: 882px;
+}
+
+.b5, .conclusion, .strength {
+  width: 713px;
+  display: inline-block;
+  position: absolute;
+  left: 243px;
+}
+
+.b5 {
+  font-size: var(--font-size-17xl);
+  color: var(--primary-color);
+  top: 528px;
+}
+
+.conclusion {
+  font-weight: 500;
+  top: 1810px;
+}
+
+.comment {
+  font-weight: 600;
+  position: absolute;
+  top: 4px;
+  left: 32px;
+}
+
+.insert-comment-icon {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.comment-parent {
+  width: 105px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  position: absolute;
+  top: 2353px;
+  left: 243px;
+}
+
+.frame-child236 {
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 714px;
+  height: 1px;
+  opacity: .5;
+  position: absolute;
+  top: 2136.5px;
+  left: 242.5px;
+}
+
+.great-work, .ryan-carder1 {
+  font-weight: 600;
+  position: absolute;
+  top: 0;
+  left: 80px;
+}
+
+.great-work {
+  font-size: var(--font-size-sm);
+  width: 633px;
+  display: inline-block;
+  top: 32px;
+}
+
+.frame-child237 {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ryan-carder-group {
+  width: 713px;
+  height: 134px;
+  font-size: var(--font-size-xl);
+  color: var(--gray-3);
+  position: absolute;
+  top: 2401px;
+  left: 243px;
+}
+
+.name59 {
+  font-weight: 500;
+  position: relative;
+}
+
+.label59 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.leave-a-message7 {
+  font-weight: 600;
+  position: relative;
+}
+
+.label-group, .textarea7 {
+  width: 713px;
+  position: absolute;
+}
+
+.textarea7 {
+  border-radius: var(--br-10xs);
+  background-color: var(--light-secondary);
+  height: 150px;
+  padding: var(--padding-sm) var(--padding-base);
+  box-sizing: border-box;
+  color: var(--gray-2);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  top: 26px;
+  left: 0;
+}
+
+.label-group {
+  height: 176px;
+  font-size: var(--font-size-base);
+  top: 2571px;
+  left: 243px;
+}
+
+.frame-child238, .frame-child239 {
+  width: 344px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-child238 {
+  border-radius: var(--br-10xs);
+  background-color: var(--secondary-color);
+  height: 557px;
+}
+
+.frame-child239 {
+  border-radius: var(--br-10xs) 0 0 var(--br-10xs);
+  height: 206px;
+  object-fit: cover;
+}
+
+.frame-child240 {
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-accent-color);
+  width: 137px;
+  height: 38px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.june-01-2021 {
+  font-weight: 600;
+  position: absolute;
+  top: 8px;
+  left: 12px;
+}
+
+.rectangle-parent94 {
+  width: 137px;
+  height: 38px;
+  font-size: var(--font-size-lg);
+  top: 495px;
+}
+
+.nissan, .rectangle-parent94, .the-nissan-gt-r {
+  position: absolute;
+  left: 24px;
+}
+
+.nissan {
+  font-size: var(--font-size-9xl);
+  color: var(--primary-color);
+  top: 230px;
+}
+
+.the-nissan-gt-r {
+  font-size: var(--font-size-base);
+  width: 263px;
+  font-weight: 600;
+  display: inline-block;
+  top: 280px;
+}
+
+.frame-child241 {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.by-carla-baptista {
+  font-weight: 600;
+  position: absolute;
+  top: 16px;
+  left: 60px;
+}
+
+.ellipse-group, .parent5 {
+  width: 166px;
+  height: 48px;
+  color: var(--color-steelblue-100);
+  position: absolute;
+  top: 423px;
+  left: 24px;
+}
+
+.parent5 {
+  width: 105px;
+  height: 24px;
+  top: 435px;
+  left: 226px;
+}
+
+.frame-child242 {
+  width: 160px;
+  height: 32px;
+  position: absolute;
+  top: 374px;
+  left: 24px;
+}
+
+.rectangle-parent93, .rectangle-parent95 {
+  width: 344px;
+  height: 557px;
+  font-size: var(--font-size-sm);
+  position: absolute;
+  top: 2942px;
+  left: 243px;
+}
+
+.rectangle-parent95 {
+  left: 612px;
+}
+
+.related-review1 {
+  font-size: var(--font-size-17xl);
+  color: var(--gray-3);
+  position: absolute;
+  top: 2875px;
+  left: 243px;
+}
+
+.frame-child248 {
+  border-radius: var(--br-10xs);
+  background-color: var(--secondary-accent);
+  width: 713px;
+  height: 225px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.comfort1 {
+  position: absolute;
+  top: 16px;
+  left: 160px;
+}
+
+.design1, .performance1, .price3 {
+  position: absolute;
+  top: 57px;
+  left: 160px;
+}
+
+.performance1, .price3 {
+  top: 98px;
+}
+
+.price3 {
+  top: 139px;
+}
+
+.frame-child249, .realibility1 {
+  position: absolute;
+  top: 180px;
+  left: 160px;
+}
+
+.frame-child249 {
+  width: 160px;
+  height: 29px;
+  top: 16px;
+  left: 533px;
+}
+
+.frame-child250, .frame-child251, .frame-child252, .frame-child253 {
+  width: 160px;
+  height: 29px;
+  position: absolute;
+  top: 57px;
+  left: 533px;
+}
+
+.frame-child251, .frame-child252, .frame-child253 {
+  top: 98px;
+}
+
+.frame-child252, .frame-child253 {
+  top: 139px;
+}
+
+.frame-child253 {
+  top: 180px;
+}
+
+.review1 {
+  font-weight: 600;
+  position: absolute;
+  top: 120px;
+  left: 4px;
+}
+
+.review-group, .star-icon16 {
+  width: 120px;
+  position: absolute;
+}
+
+.star-icon16 {
+  height: 120px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.review-group {
+  height: 149px;
+  color: var(--primary-color);
+  top: 38px;
+  left: 16px;
+}
+
+.frame-child254, .frame-child255, .frame-child256, .frame-child257 {
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 532px;
+  height: 1px;
+  opacity: .5;
+  position: absolute;
+  top: 50.5px;
+  left: 159.5px;
+}
+
+.frame-child255, .frame-child256, .frame-child257 {
+  top: 91.5px;
+}
+
+.frame-child256, .frame-child257 {
+  top: 132.5px;
+}
+
+.frame-child257 {
+  top: 173.5px;
+}
+
+.rectangle-parent97 {
+  width: 713px;
+  height: 225px;
+  font-size: var(--font-size-5xl);
+  position: absolute;
+  top: 601px;
+  left: 243px;
+}
+
+.button-button-primary7, .frame-child258 {
+  border-radius: var(--br-10xs);
+  position: absolute;
+  left: 243px;
+}
+
+.frame-child258 {
+  width: 713px;
+  height: 374px;
+  object-fit: cover;
+  top: 1135px;
+}
+
+.button-button-primary7 {
+  background-color: var(--primary-color);
+  padding: var(--padding-mini) var(--padding-42xl);
+  text-align: center;
+  font-size: var(--font-size-mini);
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  top: 2771px;
+}
+
+.frame-child259 {
+  display: none;
+}
+
+.frame-child259, .frame-child260 {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+}
+
+.dealer1 {
+  font-size: var(--font-size-sm);
+  position: relative;
+}
+
+.alfredo-gouse-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.ellipse-parent1 {
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-base);
+  flex-direction: row;
+  flex: 1;
+  display: flex;
+}
+
+.card-user-inner {
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 57px;
+  position: relative;
+}
+
+.akar-iconsphone1 {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.akar-iconsphone-group, .card-user1, .tag2 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.akar-iconsphone-group {
+  gap: var(--gap-base);
+  flex: 1;
+}
+
+.card-user1, .tag2 {
+  border-radius: var(--br-10xs);
+  font-size: var(--font-size-lg);
+  position: absolute;
+  left: 243px;
+}
+
+.card-user1 {
+  background-color: var(--secondary-accent);
+  width: 713px;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  color: var(--gray-3);
+  top: 2229px;
+}
+
+.tag2 {
+  background-color: var(--primary-accent-color);
+  padding: var(--padding-5xs) var(--padding-xs);
+  top: 2155px;
+}
+
+.rectangle-parent92 {
+  width: 1200px;
+  height: 3499px;
+  font-size: var(--font-size-11xl);
+  position: absolute;
+  top: 250px;
+  left: 112px;
+}
+
+.our-review-details-item {
+  background-color: var(--secondary-color);
+  width: 1440px;
+  height: 250px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.car-logo-icon20 {
+  width: 117.63px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.car-logo-wrapper7 {
+  width: 117.63px;
+  height: 32px;
+  position: relative;
+}
+
+.article-parent7 {
+  gap: var(--gap-5xs);
+}
+
+.article-parent7, .bxbxs-user-parent7, .new-cars-parent7 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.new-cars-parent7 {
+  gap: var(--gap-53xl);
+}
+
+.bxbxs-user-parent7 {
+  border-radius: var(--br-10xs);
+  padding: var(--padding-5xs) var(--padding-sm);
+}
+
+.clarityworld-line-icon9 {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.clarityworld-line-parent7, .frame-parent103 {
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap-9xs);
+  flex-direction: row;
+  display: flex;
+}
+
+.frame-parent103 {
+  gap: var(--gap-5xl);
+}
+
+.footer-footer-child7, .navigation-navbar9 {
+  width: 1440px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.navigation-navbar9 {
+  padding: var(--padding-6xs) var(--padding-181xl);
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap-53xl);
+  flex-direction: row;
+  display: flex;
+}
+
+.footer-footer-child7 {
+  background-color: var(--secondary-color);
+  height: 306px;
+}
+
+.about-us9, .contact11, .faq10 {
+  font-weight: 600;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.contact11, .faq10 {
+  top: 82px;
+}
+
+.faq10 {
+  top: 41px;
+}
+
+.about-us-parent7 {
+  width: 70px;
+  height: 103px;
+  position: relative;
+}
+
+.div26, .infocarcom9 {
+  font-weight: 500;
+  position: absolute;
+  top: 41px;
+  left: 0;
+}
+
+.div26 {
+  top: 82px;
+}
+
+.customer-service9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.infocarcom-parent7 {
+  width: 135px;
+  height: 99px;
+  position: relative;
+}
+
+.facebook-icon11, .instagram-icon11, .youtube-icon11 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  overflow: hidden;
+}
+
+.instagram-icon11, .youtube-icon11 {
+  left: 48px;
+}
+
+.youtube-icon11 {
+  left: 96px;
+}
+
+.facebook-parent7 {
+  width: 128px;
+  height: 104px;
+  position: relative;
+}
+
+.frame-parent104 {
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap-344xl);
+  flex-direction: row;
+  display: flex;
+  position: absolute;
+  top: 121px;
+  left: 205px;
+}
+
+.banner-atas-child7 {
+  background-color: var(--secondary-color);
+  width: 1440px;
+  height: 45px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.rights8 {
+  font-weight: 500;
+  position: absolute;
+  top: 6px;
+  left: calc(50% - 98.5px);
+}
+
+.banner-atas9, .promo9 {
+  width: 239px;
+  height: 27px;
+  position: absolute;
+  top: 9px;
+  left: 601px;
+}
+
+.banner-atas9 {
+  width: 1440px;
+  height: 45px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  top: 261px;
+  left: 0;
+}
+
+.car-logo-icon21, .line-icon18, .line-icon19 {
+  width: 1396px;
+  height: 1px;
+  position: absolute;
+  top: 260px;
+  left: 23px;
+}
+
+.car-logo-icon21, .line-icon19 {
+  top: 84px;
+  left: 22px;
+}
+
+.car-logo-icon21 {
+  width: 138px;
+  height: 37px;
+  object-fit: cover;
+  top: 24px;
+  left: 651px;
+}
+
+.footer-footer9, .header-2-child4 {
+  width: 1440px;
+  height: 306px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.header-2-child4 {
+  height: 100%;
+  width: 100%;
+  background-color: var(--dark-secondary);
+  top: 0;
+  right: 0;
+}
+
+.homepage-new6, .tesla-model-39 {
+  font-weight: 600;
+  position: absolute;
+  top: 46px;
+  left: 124px;
+}
+
+.homepage-new6 {
+  font-size: var(--font-size-lg);
+  top: 128px;
+}
+
+.header-26 {
+  width: 1440px;
+  height: 195px;
+  font-size: var(--font-size-29xl);
+  position: absolute;
+  top: 54px;
+  left: 0;
+}
+
+.floating-action-button7 {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 674px;
+  left: 1358px;
+}
+
+.our-review-details {
+  background-color: var(--dark-secondary);
+  width: 100%;
+  height: 4124px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=our-review-details.c116baa3.css.map */

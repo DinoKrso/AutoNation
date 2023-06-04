@@ -1,0 +1,418 @@
+.faq-child,
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--secondary-color);
+  width: 1440px;
+  height: 250px;
+}
+.frame-child3 {
+  height: 106.63%;
+  top: -6.63%;
+  bottom: 0;
+  background-color: var(--dark-secondary);
+}
+.frequently-asked-question {
+  position: absolute;
+  top: 115px;
+  left: 124px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--secondary-color);
+  width: 190px;
+  height: 308px;
+}
+.buy,
+.car,
+.privacy,
+.sell2 {
+  position: absolute;
+  left: 24px;
+  font-weight: 600;
+}
+.car {
+  top: 24px;
+  text-decoration: underline;
+  color: var(--primary-color);
+}
+.buy,
+.privacy,
+.sell2 {
+  top: 172px;
+}
+.buy,
+.privacy {
+  top: 98px;
+}
+.privacy {
+  top: 246px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 334px;
+  left: 124px;
+  width: 190px;
+  height: 308px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.how-to-compare {
+  flex: 1;
+  position: relative;
+}
+.akar-iconschevron-down4 {
+  position: relative;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.how-to-compare-car-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.line-div {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-5xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.accumsan-urna-posuere {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  height: 95px;
+}
+.accumsan-urna-posuere-non-viv-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.accordion-text,
+.dropdown,
+.dropdown1 {
+  position: absolute;
+  left: 370px;
+  border-radius: var(--br-10xs);
+  background-color: var(--secondary-accent);
+  width: 946px;
+  display: flex;
+}
+.accordion-text {
+  top: 334px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.dropdown,
+.dropdown1 {
+  top: 713px;
+  height: 82px;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.dropdown1 {
+  top: 595px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 60.93%;
+  top: 17.57%;
+  bottom: 21.5%;
+  left: 0;
+  width: 1440px;
+  font-size: var(--font-size-9xl);
+  color: var(--gray-3);
+}
+.floating-action-button,
+.header-2-child {
+  position: absolute;
+  top: 674px;
+  left: 1358px;
+  width: 64px;
+  height: 64px;
+}
+.header-2-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--dark-secondary);
+}
+.homepage-new,
+.tesla-model-3 {
+  position: absolute;
+  top: 46px;
+  left: 124px;
+  font-weight: 600;
+}
+.homepage-new {
+  top: 128px;
+  font-size: var(--font-size-lg);
+}
+.footer-footer-inner,
+.header-2 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.header-2 {
+  top: 55px;
+  height: 195px;
+  font-size: var(--font-size-29xl);
+}
+.footer-footer-inner {
+  top: 0;
+  background-color: var(--secondary-color);
+  height: 306px;
+}
+.about-us2,
+.contact2,
+.faq3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.contact2,
+.faq3 {
+  top: 82px;
+}
+.faq3 {
+  top: 41px;
+}
+.about-us-container {
+  position: relative;
+  width: 70px;
+  height: 103px;
+}
+.div2,
+.infocarcom2 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  font-weight: 500;
+}
+.div2 {
+  top: 82px;
+}
+.customer-service2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.infocarcom-container {
+  position: relative;
+  width: 135px;
+  height: 99px;
+}
+.facebook-icon4,
+.instagram-icon4,
+.youtube-icon4 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.instagram-icon4,
+.youtube-icon4 {
+  left: 48px;
+}
+.youtube-icon4 {
+  left: 96px;
+}
+.bosnia-and-herzegovina2 {
+  margin: 0;
+}
+.facebook-container {
+  position: relative;
+  width: 128px;
+  height: 104px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 121px;
+  left: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-344xl);
+}
+.banner-atas-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--secondary-color);
+  width: 1440px;
+  height: 45px;
+}
+.rights2 {
+  position: absolute;
+  top: 6px;
+  left: calc(50% - 98.5px);
+  font-weight: 500;
+}
+.banner-atas2,
+.promo2 {
+  position: absolute;
+  top: 9px;
+  left: 601px;
+  width: 239px;
+  height: 27px;
+}
+.banner-atas2 {
+  top: 261px;
+  left: 0;
+  width: 1440px;
+  height: 45px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.car-logo-icon6,
+.line-icon4,
+.line-icon5 {
+  position: absolute;
+  top: 260px;
+  left: 23px;
+  width: 1396px;
+  height: 1px;
+}
+.car-logo-icon6,
+.line-icon5 {
+  top: 84px;
+  left: 22px;
+}
+.car-logo-icon6 {
+  top: 24px;
+  left: 651px;
+  width: 138px;
+  height: 37px;
+  object-fit: cover;
+}
+.footer-footer2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 1440px;
+  height: 306px;
+}
+.car-logo-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 117.63px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.car-logo-frame {
+  position: relative;
+  width: 117.63px;
+  height: 32px;
+}
+.new-cars2 {
+  position: relative;
+  font-weight: 600;
+}
+.akar-iconschevron-down7 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.article-container {
+  gap: var(--gap-5xs);
+}
+.article-container,
+.bxbxs-user-container,
+.new-cars-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.new-cars-container {
+  gap: var(--gap-53xl);
+}
+.bxbxs-user-container {
+  border-radius: var(--br-10xs);
+  padding: var(--padding-5xs) var(--padding-sm);
+}
+.clarityworld-line-icon2 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.clarityworld-line-container,
+.frame-parent4,
+.navigation-navbar2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.frame-parent4,
+.navigation-navbar2 {
+  gap: var(--gap-5xl);
+}
+.navigation-navbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  padding: var(--padding-6xs) var(--padding-181xl);
+  box-sizing: border-box;
+  gap: var(--gap-53xl);
+}
+.faq2 {
+  position: relative;
+  background-color: var(--dark-secondary);
+  width: 100%;
+  height: 1423px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
